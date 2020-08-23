@@ -1,5 +1,5 @@
 
-@ puran
+@ Puran Z
 
 ## Demystifying AI
 `AI: ANI, AGI`<br>
@@ -105,15 +105,77 @@ GPU: graphics processing unit
 Image/Radar/Lidar + GPS, Maps => (Car detection & Pedestrian derection => Trajectory prediction) & Lane detection & Traffic light detection & obstacle detection => Motion Planning => Steer/Accelerate/Brake
 
 ### AI Transformation
-### excute pilot projects to gain momentum
-### build an in-house AI team 
-### provide broad AI training
-### develop an AI strategy
-### develop internal and external communications
+#### Step1: excute pilot projects to gain momentum
+* More important for the initial project to be succeed rather than be the most valuable
+* Show traction within 6-12 months
+* can be in-house or outsourced
+
+#### Step2: build an in-house AI team 
+* AI team supports different BU (Business Unit)
+* AI function can be under CTO, CIO, CDO or a new CAIO
+
+#### Step3: provide broad AI training
+|Role  	| What they should Learn 	|
+|-	|-	|
+| Executes and senior business leaders 	|What AI can do for enterprise<br>AI strategy<br>Resource Allocation  	|
+| Leaders of divisions working on AI projects 	|  Set project direction(technical and business diligence)<br>Resource allocation<br>Moniter progress 	|
+|  AI engineer trainees	| Build and ship AI software<br>Gather data<br>Excute on specific AI project  	|
+
+#### Step4: develop an AI strategy
+* Leverage AI to create an adbvantage specific to your industry sector
+* Design strategy aligned with the "Virtuous Cycle of AI"<br>
+    * -better product-more user- more data-
+* Consider creating a data strategy：<br>
+    * Strategic data acquisition<br>
+    * Unified data warehouse<br>
+* Create network effects and platform advantages<br>
+    * In industries with "wineer take all" dynamics, AI can be an accelerate
+
+#### Step5: develop internal and external communications
+* Investor relations
+* Government relations
+* Consumer/user education
+* Talent/recruitment
+* Internal Communications
+
+### AI pitfalls to avoid
 
 ## AI and Society
+### AI and hype
+**the Goldilocks Rule of AI**:<br>
+One shoudn't be too optimistic or too pessimistic<br>
+### Limitation of AI
+* Performance limitations
+* explainability is hard(but sometimes doable)
+
+#### Discrimination/Bias
+* AI learning unhealthy stereotypes
+
+`Why bias matters`
+* hiring tool that discriminated against women
+* Facial recognition works better for light-skined than dack-skinned individuals
+* bank loan approvals
+* Toxic effect of reinforcing unhealthy stereotypes
+
+`Combating bias`
+* Technical solutions
+    * E.g., "zero out" the bias in words<br>
+* Transparenncy or auditing processes
+* Diverse workforce
+
+#### Adversarial attacks
+* defense do exist, but incur some cost
+* similar to spam vs. anti-spam, we may be in arms race for some applications
+* physical attack
+
+#### Adverse use of AI
+* DeepFakes
+    * Synthesize video of people doing things they never did
+* Generating fake comments
+* Undermining of democracy and privacy
+    * Oppressive surveilance
+* Spam  vs. anti-spam and fraud vs. anti-fraud
 
 
-```python
-
-```
+### AI, developing economies
+* AI advantage in vertical industry
