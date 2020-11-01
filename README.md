@@ -10,6 +10,9 @@ I will upload more files from time to time. [[Learning Path & Note](https://gith
 
 ### Big Data Computing
 
+### Automation
+[Google IT Automation with Python Professional Certificate](https://github.com/puran-debugger/Google-IT-Automation-with-Python-Professional-Certificate)
+
 ### Web Development
 
 ### Algorithms
