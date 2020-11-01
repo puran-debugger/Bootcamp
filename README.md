@@ -9,8 +9,10 @@ I will upload more files from time to time. [[Learning Path & Note](https://gith
 [Applied Data Science with Python Specialization](https://github.com/puran-debugger/Applied-Data-Science-with-Python-Specialization)<br>
 [Python for Data Science and Machine Learning Bootcamp](https://github.com/puran-debugger/Python-for-Data-Science-and-Machine-Learning-Bootcamp)<br>
 
-### Deep Learning
-[DeepLearning. AI TensorFlow Developer Professional Certificate](https://github.com/puran-debugger/DeepLearning-AI-TensorFlow-Developer-Professional-Certificate-Program)
+### Deep Learning & Natural Language Processing & Computer Vision
+[DeepLearning. AI TensorFlow Developer Professional Certificate](https://github.com/puran-debugger/DeepLearning-AI-TensorFlow-Developer-Professional-Certificate-Program)<br>
+[Natural Language Processing Specialization](https://github.com/puran-debugger/Natural-Language-Processing-Specialization)<br>
+
 
 ### Big Data Computing
 [Spark and Python for Big Data with PySpark](https://github.com/puran-debugger/Spark-and-Python-for-Big-Data-with-PySpark)
