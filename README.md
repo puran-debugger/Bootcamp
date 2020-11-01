@@ -1,5 +1,6 @@
 # Bootcamp Syllabus
 Bootcamp/Specialization on Data Science topics as Machine Learning, Deep Learning, Big Data Computing, Automation, Web Development, Algorithms, Database.<br>
+
 Click the topics that you are interested and view the corresponding files directly.<br>
 
 I will upload more files from time to time. [[Learning Path & Note](https://github.com/puran-debugger/Learning)]
