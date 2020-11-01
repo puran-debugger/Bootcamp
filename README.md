@@ -1,5 +1,7 @@
-# Bootcamp
-Bootcamp/Specialization on Data Science topics (Machine Learning, Deep Learning, Big Data Computing, Automation, Web Development, Algorithms, Database)
+# Bootcamp Syllabus
+Bootcamp/Specialization on Data Science topics as Machine Learning, Deep Learning, Big Data Computing, Automation, Web Development, Algorithms, Database.<br>
+
+Click the topics that you are interested and view the corresponding files directly.<br>
 
 I will upload more files from time to time. [[Learning Path & Note](https://github.com/puran-debugger/Learning)]
 
@@ -11,6 +13,7 @@ I will upload more files from time to time. [[Learning Path & Note](https://gith
 [DeepLearning. AI TensorFlow Developer Professional Certificate](https://github.com/puran-debugger/DeepLearning-AI-TensorFlow-Developer-Professional-Certificate-Program)
 
 ### Big Data Computing
+[Spark and Python for Big Data with PySpark](https://github.com/puran-debugger/Spark-and-Python-for-Big-Data-with-PySpark)
 
 ### Automation
 [Google IT Automation with Python Professional Certificate](https://github.com/puran-debugger/Google-IT-Automation-with-Python-Professional-Certificate)
