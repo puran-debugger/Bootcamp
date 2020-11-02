@@ -20,6 +20,7 @@ I will upload more files from time to time. [[Learning Path & Note](https://gith
 
 ### Automation
 [Google IT Automation with Python Professional Certificate](https://github.com/puran-debugger/Google-IT-Automation-with-Python-Professional-Certificate)
+[Web Scraping and API Fundamentals in Python](https://github.com/puran-debugger/Web-Scraping-and-API-Fundamentals-in-Python)
 
 ### Web Development
 
