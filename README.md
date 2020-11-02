@@ -3,7 +3,7 @@ Bootcamp/Specialization on Data Science topics as Machine Learning, Deep Learnin
 
 Click the topics that you are interested and view the corresponding files directly.<br>
 
-I will upload more files from time to time. [[Learning Path & Note](https://github.com/puran-debugger/Learning)]
+I will upload more files from time to time. [[Learning Path & Note](https://github.com/puran-debugger/Learning)]<br>
 
 ### Data Science
 [Applied Data Science with Python Specialization](https://github.com/puran-debugger/Applied-Data-Science-with-Python-Specialization)<br>
@@ -16,15 +16,15 @@ I will upload more files from time to time. [[Learning Path & Note](https://gith
 
 
 ### Big Data Computing
-[Spark and Python for Big Data with PySpark](https://github.com/puran-debugger/Spark-and-Python-for-Big-Data-with-PySpark)
+[Spark and Python for Big Data with PySpark](https://github.com/puran-debugger/Spark-and-Python-for-Big-Data-with-PySpark)<br>
 
 ### Automation
-[Google IT Automation with Python Professional Certificate](https://github.com/puran-debugger/Google-IT-Automation-with-Python-Professional-Certificate)
-[Web Scraping and API Fundamentals in Python](https://github.com/puran-debugger/Web-Scraping-and-API-Fundamentals-in-Python)
+[Google IT Automation with Python Professional Certificate](https://github.com/puran-debugger/Google-IT-Automation-with-Python-Professional-Certificate)<br>
+[Web Scraping and API Fundamentals in Python](https://github.com/puran-debugger/Web-Scraping-and-API-Fundamentals-in-Python)<br>
 
 ### Web Development
 
 ### Algorithms
-[Algorithms and Data Structures in Python](https://github.com/puran-debugger/Algorithms-and-Data-Structures-in-Python)
+[Algorithms and Data Structures in Python](https://github.com/puran-debugger/Algorithms-and-Data-Structures-in-Python)<br>
 
 ### Database
