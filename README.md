@@ -29,3 +29,5 @@ I will upload more files from time to time. [[Learning Path & Note](https://gith
 [Algorithms and Data Structures in Python](https://github.com/puran-debugger/Algorithms-and-Data-Structures-in-Python)<br>
 
 ### Database
+SQL<br>
+[MongoDB Training from MongoDB Inc.](https://github.com/puran-debugger/MongoDB)<br>
